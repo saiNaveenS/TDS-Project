@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {D4591E4C-13A7-49FA-BD4C-9438E06BD9BB}
+id: {586160B9-9EC3-4A9A-9F9B-951BA504E2C2}
 database: master
-path: /sitecore/templates/Modesto/JSON Administration/Product Detail Page
-parent: {7186BF10-84E4-49E3-A833-124CAAB817DD}
-name: Product Detail Page
+path: /sitecore/templates/Modesto/JSON Components/Product Page Components/Schema Folder
+parent: {388EB436-61A8-45E0-B69A-0F6D804CC5BB}
+name: Schema Folder
 master: {00000000-0000-0000-0000-000000000000}
 template: {AB86861A-6030-46C5-B394-E8F99E8B87DB}
 templatekey: Template
-created: 20170718T203411Z
+created: 20171212T192425Z
 
 ----field----
 field: {12C33F3F-86C5-43A5-AEB4-5598CEC45116}
@@ -16,25 +16,25 @@ name: __Base template
 key: __base template
 content-length: 38
 
-{1930BBEB-7805-471A-A3BE-4858AC7CF696}
+{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 ----field----
 field: {F7D48A55-2158-4F02-9356-756654404F73}
 name: __Standard values
 key: __standard values
 content-length: 38
 
-{C2912B6E-37F0-4F5C-BE65-7A549C761BAE}
+{75CD66E6-BC5F-41B3-BDF7-66964AC875C9}
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 24
+content-length: 29
 
-control/32x32/window.png
+applications/16x16/folder.png
 ----version----
 language: en
 version: 1
-revision: c4151149-6906-40a6-93e7-e0ca057e9fb5
+revision: 6b16058b-d530-47c5-9e61-dcaae05ea802
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -49,21 +49,21 @@ name: __Created
 key: __created
 content-length: 16
 
-20170718T203411Z
+20171212T192425Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-c4151149-6906-40a6-93e7-e0ca057e9fb5
+6b16058b-d530-47c5-9e61-dcaae05ea802
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20171106T175712Z
+20171212T192439Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

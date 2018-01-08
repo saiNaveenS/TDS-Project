@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 6d9a7d11-8fef-4464-b135-b1d4c67f6773
+revision: a1d68feb-c248-4cf7-9fe1-873ed3c224e2
 
 ----field----
 field: {100C1338-B729-4937-A7F9-89411FC0351A}
@@ -33,9 +33,16 @@ Slower speeds ahead.
 field: {04106D6E-E7E8-45C8-BFA2-D9576CC6866E}
 name: subhead
 key: subhead
-content-length: 108
+content-length: 160
 
-Some of your lines used more than 25 GB. Their data speed has been reduced until this cycle ends ([#[ days).
+One or more lines has used 20 GB of data this month. Speeds will be reduced on these lines until [CYCLEENDDATE], but they can still download, stream, and share.
+----field----
+field: {33D204C0-516C-4965-97B3-E53254D0D00E}
+name: displayImg
+key: displayimg
+content-length: 9
+
+throttled
 ----field----
 field: {BC6E6BB7-E33C-453D-846D-CE627DE9E267}
 name: cta
@@ -84,14 +91,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6d9a7d11-8fef-4464-b135-b1d4c67f6773
+a1d68feb-c248-4cf7-9fe1-873ed3c224e2
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20170719T162813Z
+20171228T160518Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
